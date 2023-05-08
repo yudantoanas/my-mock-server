@@ -1,0 +1,304 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Kippie Di Gregorio",
+            "email": "kdi0@columbia.edu",
+            "gender": "Female"
+        },
+        {
+            "id": 2,
+            "fullName": "Rip Barehead",
+            "email": "rbarehead1@360.cn",
+            "gender": "Male"
+        },
+        {
+            "id": 3,
+            "fullName": "Enrico Megainey",
+            "email": "emegainey2@nydailynews.com",
+            "gender": "Male"
+        },
+        {
+            "id": 4,
+            "fullName": "Frazier Darker",
+            "email": "fdarker3@tiny.cc",
+            "gender": "Male"
+        },
+        {
+            "id": 5,
+            "fullName": "Gardner Hards",
+            "email": "ghards4@reference.com",
+            "gender": "Male"
+        },
+        {
+            "id": 6,
+            "fullName": "Mayer Bambury",
+            "email": "mbambury5@exblog.jp",
+            "gender": "Male"
+        },
+        {
+            "id": 7,
+            "fullName": "Hoebart McKellar",
+            "email": "hmckellar6@google.co.uk",
+            "gender": "Genderqueer"
+        },
+        {
+            "id": 8,
+            "fullName": "Shermy Rallinshaw",
+            "email": "srallinshaw7@paginegialle.it",
+            "gender": "Male"
+        },
+        {
+            "id": 9,
+            "fullName": "Jeremy Penton",
+            "email": "jpenton8@engadget.com",
+            "gender": "Male"
+        },
+        {
+            "id": 10,
+            "fullName": "Bonnibelle Jollie",
+            "email": "bjollie9@hubpages.com",
+            "gender": "Female"
+        },
+        {
+            "id": 11,
+            "fullName": "Garwood Rawnsley",
+            "email": "grawnsleya@meetup.com",
+            "gender": "Male"
+        },
+        {
+            "id": 12,
+            "fullName": "Prissie Eaglestone",
+            "email": "peaglestoneb@i2i.jp",
+            "gender": "Female"
+        },
+        {
+            "id": 13,
+            "fullName": "Willow Savery",
+            "email": "wsaveryc@google.ru",
+            "gender": "Female"
+        },
+        {
+            "id": 14,
+            "fullName": "Bailey Osan",
+            "email": "bosand@alexa.com",
+            "gender": "Male"
+        },
+        {
+            "id": 15,
+            "fullName": "Tera Nelsey",
+            "email": "tnelseye@wikipedia.org",
+            "gender": "Female"
+        },
+        {
+            "id": 16,
+            "fullName": "Billie Fomichyov",
+            "email": "bfomichyovf@ucoz.ru",
+            "gender": "Female"
+        },
+        {
+            "id": 17,
+            "fullName": "Caspar North",
+            "email": "cnorthg@xrea.com",
+            "gender": "Polygender"
+        },
+        {
+            "id": 18,
+            "fullName": "Chelsey Airth",
+            "email": "cairthh@so-net.ne.jp",
+            "gender": "Female"
+        },
+        {
+            "id": 19,
+            "fullName": "Antin Creffield",
+            "email": "acreffieldi@cyberchimps.com",
+            "gender": "Male"
+        },
+        {
+            "id": 20,
+            "fullName": "Jessica Raynor",
+            "email": "jraynorj@washington.edu",
+            "gender": "Female"
+        },
+        {
+            "id": 21,
+            "fullName": "Pail Brockwell",
+            "email": "pbrockwellk@jugem.jp",
+            "gender": "Male"
+        },
+        {
+            "id": 22,
+            "fullName": "Willie Jouannisson",
+            "email": "wjouannissonl@thetimes.co.uk",
+            "gender": "Male"
+        },
+        {
+            "id": 23,
+            "fullName": "Erminie Bletsor",
+            "email": "ebletsorm@sbwire.com",
+            "gender": "Female"
+        },
+        {
+            "id": 24,
+            "fullName": "Miles Cleaton",
+            "email": "mcleatonn@wiley.com",
+            "gender": "Male"
+        },
+        {
+            "id": 25,
+            "fullName": "Frankie Winters",
+            "email": "fwinterso@xinhuanet.com",
+            "gender": "Male"
+        },
+        {
+            "id": 26,
+            "fullName": "Vincent Balthasar",
+            "email": "vbalthasarp@skyrock.com",
+            "gender": "Agender"
+        },
+        {
+            "id": 27,
+            "fullName": "Dwain Erlam",
+            "email": "derlamq@plala.or.jp",
+            "gender": "Male"
+        },
+        {
+            "id": 28,
+            "fullName": "Nev Etchells",
+            "email": "netchellsr@nih.gov",
+            "gender": "Male"
+        },
+        {
+            "id": 29,
+            "fullName": "Del Wiggans",
+            "email": "dwigganss@yellowbook.com",
+            "gender": "Male"
+        },
+        {
+            "id": 30,
+            "fullName": "Tamarah Muzzillo",
+            "email": "tmuzzillot@bluehost.com",
+            "gender": "Female"
+        },
+        {
+            "id": 31,
+            "fullName": "Lola Willerson",
+            "email": "lwillersonu@noaa.gov",
+            "gender": "Female"
+        },
+        {
+            "id": 32,
+            "fullName": "Kizzie Cathcart",
+            "email": "kcathcartv@ifeng.com",
+            "gender": "Female"
+        },
+        {
+            "id": 33,
+            "fullName": "Aleece Kimmel",
+            "email": "akimmelw@php.net",
+            "gender": "Female"
+        },
+        {
+            "id": 34,
+            "fullName": "Ariana Alesi",
+            "email": "aalesix@bigcartel.com",
+            "gender": "Female"
+        },
+        {
+            "id": 35,
+            "fullName": "Marmaduke Stalman",
+            "email": "mstalmany@time.com",
+            "gender": "Male"
+        },
+        {
+            "id": 36,
+            "fullName": "Jose Tydeman",
+            "email": "jtydemanz@de.vu",
+            "gender": "Male"
+        },
+        {
+            "id": 37,
+            "fullName": "Augustina Rolph",
+            "email": "arolph10@pbs.org",
+            "gender": "Female"
+        },
+        {
+            "id": 38,
+            "fullName": "Gert Le Strange",
+            "email": "gle11@theglobeandmail.com",
+            "gender": "Female"
+        },
+        {
+            "id": 39,
+            "fullName": "Christal Adams",
+            "email": "cadams12@fotki.com",
+            "gender": "Female"
+        },
+        {
+            "id": 40,
+            "fullName": "Sigmund Gerholz",
+            "email": "sgerholz13@slate.com",
+            "gender": "Male"
+        },
+        {
+            "id": 41,
+            "fullName": "Dita Seabrocke",
+            "email": "dseabrocke14@networkadvertising.org",
+            "gender": "Female"
+        },
+        {
+            "id": 42,
+            "fullName": "Melania Fowkes",
+            "email": "mfowkes15@auda.org.au",
+            "gender": "Female"
+        },
+        {
+            "id": 43,
+            "fullName": "Umeko Keigher",
+            "email": "ukeigher16@rediff.com",
+            "gender": "Female"
+        },
+        {
+            "id": 44,
+            "fullName": "Terza Nelm",
+            "email": "tnelm17@chron.com",
+            "gender": "Female"
+        },
+        {
+            "id": 45,
+            "fullName": "Sammy Roja",
+            "email": "sroja18@ustream.tv",
+            "gender": "Female"
+        },
+        {
+            "id": 46,
+            "fullName": "Vaughan Laws",
+            "email": "vlaws19@hubpages.com",
+            "gender": "Male"
+        },
+        {
+            "id": 47,
+            "fullName": "Torrie Storre",
+            "email": "tstorre1a@phoca.cz",
+            "gender": "Female"
+        },
+        {
+            "id": 48,
+            "fullName": "Manya Kardos",
+            "email": "mkardos1b@walmart.com",
+            "gender": "Female"
+        },
+        {
+            "id": 49,
+            "fullName": "Lucio Winn",
+            "email": "lwinn1c@webmd.com",
+            "gender": "Male"
+        },
+        {
+            "id": 50,
+            "fullName": "Solomon Biddwell",
+            "email": "sbiddwell1d@china.com.cn",
+            "gender": "Male"
+        }
+    ]
+}
