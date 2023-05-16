@@ -37,12 +37,6 @@
             "gender": "Male"
         },
         {
-            "id": 7,
-            "fullName": "Hoebart McKellar",
-            "email": "hmckellar6@google.co.uk",
-            "gender": "Genderqueer"
-        },
-        {
             "id": 8,
             "fullName": "Shermy Rallinshaw",
             "email": "srallinshaw7@paginegialle.it",
@@ -95,12 +89,6 @@
             "fullName": "Billie Fomichyov",
             "email": "bfomichyovf@ucoz.ru",
             "gender": "Female"
-        },
-        {
-            "id": 17,
-            "fullName": "Caspar North",
-            "email": "cnorthg@xrea.com",
-            "gender": "Polygender"
         },
         {
             "id": 18,
